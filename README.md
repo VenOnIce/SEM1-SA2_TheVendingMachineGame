@@ -1,6 +1,8 @@
 # SEM1-SA2_TheVendingMachineGame
 Summative Assessment 2 for Introduction to Programming
 
+* If execution leads to error, simply click on Rollback and see if it changes anything
+
 Instructions for launching The Vending Machine:
 1. Download the zip file provided in the repository
 2. Extract the zip file
