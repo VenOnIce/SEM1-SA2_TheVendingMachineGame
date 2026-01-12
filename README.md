@@ -21,7 +21,7 @@ Take note that the files that are fully accessible and readable are the .rpy fil
 
 
 
-Sounds used for this project:
+# Sounds used for this project:
 
   - freesound_community (2022). beep [Sound recording] Available at: https://pixabay.com/sound-effects/beep-104060/ (Accessed on: 4 December 2025)
   - freesound_community (2022). Success [Sound recording] Available at: https://pixabay.com/sound-effects/success-48018/ (Accessed on: 4 December 2025)
